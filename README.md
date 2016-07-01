@@ -1,6 +1,6 @@
 # Simple-Snake
 
-Works with only Linux Terminal and GCC Compiler. 
+Works with only Linux Terminal and GCC Compiler. \n
 DOWNLOAD : **sudo apt-get install libncurses-dev** if you haven't install yet.
 
 #COMPILE : gcc snake.c -o snake.run -lncurses
